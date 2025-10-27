@@ -16,8 +16,20 @@
  <a href="mailto:benjamin.schmidt@tu-berlin.de" target="_blank">benjamin.schmidt@tu-berlin.de</a>
 </p>
 
+<h3 align="left">About me and my work:</h3>
+<a href="https://orcid.org/0000-0002-9669-3360" target="_blank">
+    <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCiD Profile" width="50" height="50"/>
+</a>
+<a href="https://www.tu.berlin/klima/ueber-uns/schmidt-benjamin" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjobwunder-karrieremesse.de%2Fsite%2Fassets%2Ffiles%2F2009%2Ftu_berlin_logo_kurz_rgb_sr_rot.png&f=1&nofb=1&ipt=bea1a12a9cb43d6e7620d4a1e9d79a91e8a7c941859c64feea2d1004df078aa8" alt="Technische Universität Berlin" width="60" height="50"/>
+</a>
+<a href="https://www.linkedin.com/in/dr-benjamin-schmidt" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fthumbnail%2Flinkedin-logo-png-image-11660255244gre8npqihr.png&f=1&nofb=1&ipt=fb1b0c661cbc30bfb5efaeb8892e5528cedc4e2aca1855740f6b300aa0013acd" alt="LinkedIn" width="50" height="50"/>
+</a>
+<a href="https://www.researchgate.net/profile/Benjamin-Schmidt-10" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.rgstatic.net%2Fii%2Finstitution.image%2FAS%253A267458164789257%25401440778403888_l&f=1&nofb=1&ipt=3f97debcb649c772b31f554eac6d2227a266a247b6adbe0ddd5f2f67f7106001" alt="ResearchGate" width="50" height="50"/>
+</a>
 <h3 align="left">OS, Languages and Tools:</h3>
-
 <a href="https://archlinux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="50" height="50"/>
 </a>
