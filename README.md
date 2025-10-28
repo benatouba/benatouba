@@ -16,6 +16,28 @@
  <a href="mailto:benjamin.schmidt@tu-berlin.de" target="_blank">benjamin.schmidt@tu-berlin.de</a>
 </p>
 
+<h3 align="left">Some projects I contributed to:</h3>
+<a href="https://uco.berlin/en" target="_blank">
+  <img 
+    src="https://uco.berlin/_ipx/f_png&q_70&w_2560/logos/UCO_Logo_transp_white_small.png" 
+    alt="Urban Climate Observatory Berlin" 
+    height="40"
+    align="center"
+  />
+</a>
+<a href="https://vhrz669.hrz.uni-marburg.de/darwin/home.do" target="_blank">
+    <img 
+    src="https://files.mastodon.social/accounts/avatars/114/347/412/050/674/728/original/6166a02a4132b75f.png" 
+    alt="Dynamics of precipitation in transition: The water source for the Galápagos Archipelago under climate change" 
+    height="110"
+    align="center"
+  />
+</a> <br/>
+<a href="https://www.geo.fu-berlin.de/en/v/soga/" target="_blank">SOGA - Statistics and Geodata Analysis using R and Python</a><br/>
+<a href="https://www.tu.berlin/klima/forschung/stadtklimatologie/deutschland-metropolregionen/stadtklima-im-wandel-urban-climate-under-change" target="_blank">Urban Climate Under Change - [UC]²</a>
+
+
+
 <h3 align="left">About me and my work:</h3>
 <a href="https://orcid.org/0000-0002-9669-3360" target="_blank">
     <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCiD Profile" width="50" height="50"/>
