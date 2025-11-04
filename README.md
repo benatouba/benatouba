@@ -105,7 +105,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=benatouba&show_icons=true&theme=dark" alt="benatouba-gh-stats-two" height="180" /></p>
 
 
-<p><img src="https://streak-stats.demolab.com?user=benatouba&theme=dark&hide_border=true" alt="benatouba's GitHub Stats" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=benatouba&theme=dark&card_height=200" alt="benatouba - GH Streak" /></a></p>
 
 > What Des-Cartes [sic] did was a good step. You have added much several ways, & especially in taking the colours of thin plates into philosophical consideration. If I have seen further it is by standing on the shoulders of Giants.
 
