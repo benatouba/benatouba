@@ -100,11 +100,11 @@
   <a href="https://www.proxmox.com/en/" target="_blank"><img align="center" alt="Proxmox" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/proxmox/proxmox-plain-wordmark.svg" height="50" width="50" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benatouba&layout=compact&show_icons=true&theme=dark" alt="benatouba" height="200" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benatouba&layout=compact&show_icons=true&theme=dark" alt="benatouba-gh-stats-one" height="180" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benatouba&show_icons=true&theme=dark" alt="benatouba" height="200" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=benatouba&show_icons=true&theme=dark" alt="benatouba-gh-stats-two" height="180" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=benatouba&theme=dark&hide_border=true" alt="benatouba" height="200" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=benatouba&theme=dark&hide_border=true" alt="benatouba-gh-streak" height="180" /></p>
 
 > What Des-Cartes [sic] did was a good step. You have added much several ways, & especially in taking the colours of thin plates into philosophical consideration. If I have seen further it is by standing on the shoulders of Giants.
 
