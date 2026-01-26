@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://www.climate.gov/media/15061" target="blank"><img align="center" src="https://i.imgur.com/4sMDDz5.jpeg" alt="Research areas" height="300" width="600" /></a>
+ <a href="https://www.climate.gov/media/15061" target="blank"><img align="center" src="https://i.imgur.com/4sMDDz5.jpeg" alt="Research areas" height="300" width="800" /></a>
  
 <h2 align="center">Available to work</h2>
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
