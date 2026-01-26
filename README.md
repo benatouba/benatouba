@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://www.climate.gov/media/15061" target="blank"><img align="center" src="https://www.climate.gov/sites/default/files/styles/embedded_gif/public/2023-02/animation_ENSOblog_subsurface_equatorial_pacific_ocean_temp_anomalies_20230209.gif?itok=Uw2RiK6a" alt="La Niña Visualization" height="300" width="600" /></a>
+ <a href="https://www.climate.gov/media/15061" target="blank"><img align="center" src="https://imgur.com/4sMDDz5" alt="Research areas" height="300" width="600" /></a>
  
 <h2 align="center">Available to work</h2>
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
