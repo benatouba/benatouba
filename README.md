@@ -44,10 +44,10 @@ I work at the intersection of climate science, geospatial analytics, and softwar
 
 ## Currently building
 
-- Improving [MaRESS](https://github.com/benatouba/maress) extraction and exploration workflows for Earth system science publications
-- Extending [UC2 data infrastructure](https://uc2-program.org) for scalable climate data exchange and partner-facing operations
-- Expanding [benrlschmidt.de](https://benrlschmidt.de) with clearer project and publication storytelling
-- Strengthening reproducible engineering setups across repositories with [flakes](https://github.com/benatouba/flakes)
+- Improving [MaRESS](https://github.com/benatouba/maress) extraction and exploration and adding workflows geospatial web tools for Earth system science
+- Extending [Alganizes AI infrastructure](https://alganize.de) for scalable soil data analysis
+- Improving [UCO Berlin](https://uco.berlin/en) data pipelines and for urban climate data access and visualization
+- Strengthening reproducible engineering setups across repositories with [flakes](https://github.com/benatouba/flakes) (personal)
 
 ## Featured projects
 
