@@ -1,112 +1,113 @@
 <p align="center">
- <a href="https://www.climate.gov/media/15061" target="blank"><img align="center" src="https://i.imgur.com/4sMDDz5.jpeg" alt="Research areas" height="300" width="800" /></a>
- 
-<h2 align="center">Available to work</h2>
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A Post-Doctoral Climate Researcher/Modeller, Data Scientist and Full Stack Dev working at Technische Universität Berlin</h3>
-
-- 🔭 I'm currently working on a scientific tooling project named **MaRESS**.
-
-- 🌱 I'm currently learning **more AI related topics**
-
-- 💬 Passionate about **Climate**, **Data**, **Linux**, **FOSS**, **Neovim**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="mailto:benjamin.schmidt@tu-berlin.de" target="_blank">benjamin.schmidt@tu-berlin.de</a>
+  <a href="https://www.climate.gov/media/15061" target="_blank">
+    <img src="https://i.imgur.com/4sMDDz5.jpeg" alt="Climate and research banner" width="100%" />
+  </a>
 </p>
 
-<h3 align="left">Some projects I contributed to:</h3>
-<a href="https://uco.berlin/en" target="_blank">
-  <img 
-    src="https://uco.berlin/_ipx/f_png&q_70&w_2560/logos/UCO_Logo_transp_white_small.png" 
-    alt="Urban Climate Observatory Berlin" 
-    height="40"
-    align="center"
-  />
-</a>
-<a href="https://vhrz669.hrz.uni-marburg.de/darwin/home.do" target="_blank">
-    <img 
-    src="https://files.mastodon.social/accounts/avatars/114/347/412/050/674/728/original/6166a02a4132b75f.png" 
-    alt="Dynamics of precipitation in transition: The water source for the Galápagos Archipelago under climate change" 
-    height="110"
-    align="center"
-  />
-</a> <br/>
-<a href="https://www.geo.fu-berlin.de/en/v/soga/" target="_blank">SOGA - Statistics and Geodata Analysis using R and Python</a><br/>
-<a href="https://www.tu.berlin/klima/forschung/stadtklimatologie/deutschland-metropolregionen/stadtklima-im-wandel-urban-climate-under-change" target="_blank">Urban Climate Under Change - [UC]²</a>
+<h1 align="center">Dr. Benjamin Schmidt</h1>
 
+<p align="center"><strong>Research Scientist | Climate Data Engineer | Research Software Engineer | Linux Enthusiast</strong></p>
 
-
-<h3 align="left">About me and my work:</h3>
-<a href="https://orcid.org/0000-0002-9669-3360" target="_blank">
-    <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCiD Profile" width="50" height="50"/>
-</a>
-<a href="https://www.tu.berlin/klima/ueber-uns/schmidt-benjamin" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjobwunder-karrieremesse.de%2Fsite%2Fassets%2Ffiles%2F2009%2Ftu_berlin_logo_kurz_rgb_sr_rot.png&f=1&nofb=1&ipt=bea1a12a9cb43d6e7620d4a1e9d79a91e8a7c941859c64feea2d1004df078aa8" alt="Technische Universität Berlin" width="60" height="50"/>
-</a>
-<a href="https://www.linkedin.com/in/dr-benjamin-schmidt" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoppng.com%2Fuploads%2Fthumbnail%2Flinkedin-logo-png-image-11660255244gre8npqihr.png&f=1&nofb=1&ipt=fb1b0c661cbc30bfb5efaeb8892e5528cedc4e2aca1855740f6b300aa0013acd" alt="LinkedIn" width="50" height="50"/>
-</a>
-<a href="https://www.researchgate.net/profile/Benjamin-Schmidt-10" target="_blank">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.rgstatic.net%2Fii%2Finstitution.image%2FAS%253A267458164789257%25401440778403888_l&f=1&nofb=1&ipt=3f97debcb649c772b31f554eac6d2227a266a247b6adbe0ddd5f2f67f7106001" alt="ResearchGate" width="50" height="50"/>
-</a>
-<h3 align="left">OS, Languages and Tools:</h3>
-<a href="https://archlinux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="50" height="50"/>
-</a>
-
-<a href="https://debian.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/debian/debian-plain.svg" alt="Debian Linux" width="50" height="50"/>
-</a>
-
-<a href="https://nixos.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nixos/nixos-original.svg" alt="Nix OS" width="50" height="50"/>
-</a>
-
-<p align="left" display="flex" justify-content="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/r/r-original.svg" alt="R-Project" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> </a> 
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nuxt/nuxt-original.svg" alt="Nuxt" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.tqg9bMrTwsJb-58sTZ_WUwAAAA%3Fpid%3DApi&f=1&ipt=85574439f8ee9699ee3c49b875fc8e16925976eff70ba5e02857054bacf2f21f" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://numpy.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> </a>
-  <a href="https://plotly.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/scikitlearn/scikitlearn-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/> </a>
-<br/>
-
- <a href="https://github.com/neovim/neovim" target="_blank">
-<img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/nvim-icon.png" alt="Neovim" height="50" width="50" /></a>
-
- <a href="https://www.vim.org/download.php" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/74944536/213898283-e32c4b73-ce56-4f0f-b22c-df6e164bac45.png" alt="Vim" height="40" width="40" /></a>
- 
- <a href="https://brave.com/download/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/74944536/213898413-22227d2d-50a4-484a-95bc-ba2eb76a34c6.png" alt="Brave" height="50" width="50" /></a>
-  <a href="https://wezterm.org/" target="_blank"><img align="center" alt="WezTerm" src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" height="50" width="50" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img align="center" alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jupyter/jupyter-original-wordmark.svg" height="50" width="50" /></a>
-  <a href="https://www.beegfs.io/c/" target="_blank"><img align="center" alt="BeeGFS" src="https://www.beegfs.io/c/wp-content/uploads/2024/01/beegfs_logo.png" height="50" width="50" /></a>
-  <a href="https://saltproject.io/" target="_blank"><img align="center" alt="Salt" src="https://saltproject.io/images/logo.svg" height="50" width="50" /></a>
-  <a href="https://www.proxmox.com/en/" target="_blank"><img align="center" alt="Proxmox" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/proxmox/proxmox-plain-wordmark.svg" height="50" width="50" /></a>
+<p align="center">
+I build reproducible, data-intensive software for climate and environmental research.<br/>
+From scientific pipelines to production-ready web platforms.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benatouba&layout=compact&show_icons=true&theme=dark" alt="benatouba-gh-stats-one" height="200" /></p>
+<p align="center">
+  <a href="mailto:benjamin.schmidt@tu-berlin.de"><img src="https://img.shields.io/badge/Email-benjamin.schmidt%40tu--berlin.de-0a66c2?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://benrlschmidt.de"><img src="https://img.shields.io/badge/Website-benrlschmidt.de-0366d6?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/dr-benjamin-schmidt/"><img src="https://img.shields.io/badge/LinkedIn-dr--benjamin--schmidt-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://orcid.org/0000-0002-9669-3360"><img src="https://img.shields.io/badge/ORCID-0000--0002--9669--3360-a6ce39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=benatouba&show_icons=true&theme=dark" alt="benatouba-gh-stats-two" height="180" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Berlin%2C%20Germany-1f883d?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Software%20Engineering%20Roles-0969da?style=flat-square" alt="Open to roles" />
+</p>
 
+## At a glance
 
-<p><a href="https://github-readme-streak-stats-eight.vercel.app/demo/"><img src="https://github-readme-streak-stats-eight.vercel.app?user=benatouba&theme=dark&card_height=200" alt="benatouba - GH Streak" /></a></p>
+I work at the intersection of climate science, geospatial analytics, and software engineering. I focus on building reliable tools that help teams process data, publish insights, and collaborate effectively.
 
-> What Des-Cartes [sic] did was a good step. You have added much several ways, & especially in taking the colours of thin plates into philosophical consideration. If I have seen further it is by standing on the shoulders of Giants.
+| Focus area | What I deliver |
+| --- | --- |
+| Scientific software | Full-stack applications for climate and Earth system research |
+| Data engineering | Reproducible pipelines for large geospatial and NetCDF datasets |
+| Platform engineering | Typed APIs, maintainable codebases, and documented workflows |
+| Linux system administration | Reproducible, maintainable systems from workstations to HPC |
+| Collaboration | Clear communication across research, engineering, and stakeholder teams |
 
-\- Sir Isaac Newton, 1675
+## Current work
+
+- Chief Scientific Officer at Alganize GmbH
+- Researcher and lecturer at Technische Universitat Berlin and Freie Universitat Berlin
+
+## Currently building
+
+- Improving [MaRESS](https://github.com/benatouba/maress) extraction and exploration workflows for Earth system science publications
+- Extending [UC2 data infrastructure](https://uc2-program.org) for scalable climate data exchange and partner-facing operations
+- Expanding [benrlschmidt.de](https://benrlschmidt.de) with clearer project and publication storytelling
+- Strengthening reproducible engineering setups across repositories with [flakes](https://github.com/benatouba/flakes)
+
+## Featured projects
+
+| Project | Why it matters | Core stack |
+| --- | --- | --- |
+| [MaRESS](https://github.com/benatouba/maress) | Enables map and graph exploration of Earth system publications and study sites for faster research discovery | Vue 3, TypeScript, FastAPI, PostgreSQL/PostGIS, Celery, Redis, OpenLayers, Cytoscape.js |
+| [UC2 data exchange platform](https://uc2-program.org) ([dms_frontend](https://github.com/benatouba/dms_frontend), [DMS_backend](https://github.com/TUBklima/DMS_backend)) | Delivers shared data exchange and management for large climate model datasets across all UC2 project partners | Vue/Nuxt, Python backend services, APIs, NetCDF climate data workflows |
+| [UCO Berlin](https://uco.berlin/en) | Provides partner-facing urban climate access and visualization to improve data communication and collaboration | Geospatial web tooling, climate data pipelines, platform engineering |
+| [ATTRICI](https://github.com/benatouba/attrici) | Implements reproducible counterfactual climate workflows for impact attribution and method transparency | Python, probabilistic modeling, climate time-series analysis |
+| [darwin](https://github.com/benatouba/darwin) | Turns GAR and DARWIN model outputs into robust, analysis-ready climate data workflows | Python, xarray, salem, scientific data processing |
+| [benrlschmidt.de](https://benrlschmidt.de) ([repo](https://github.com/benatouba/benjaminschmidt)) | Presents a multilingual, structured research profile for publications, projects, and professional outreach | Vue 3, TypeScript, Vuetify, Vite, i18n |
+
+## Tooling and setups
+
+| Repo | Why it matters | Core stack |
+| --- | --- | --- |
+| [nvim](https://github.com/benatouba/nvim) | Standardizes a portable Neovim workflow across local, remote, and HPC development | Lua, LSP, testing/debug tooling, Nix-aware setup |
+| [flakes](https://github.com/benatouba/flakes) | Keeps environments reproducible and maintainable with modular Nix architecture | Nix, Home Manager, overlays, secret management |
+
+## Technical toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+  <img src="https://img.shields.io/badge/Celery-37814a?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Vue%203-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Nix-5277c3?style=flat-square&logo=nixos&logoColor=white" alt="Nix" />
+  <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/xarray-4d4d4d?style=flat-square" alt="xarray" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benatouba&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benatouba&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=benatouba&hide_border=true&theme=transparent" alt="GitHub streak" height="170" />
+</p>
+
+## Research and professional profiles
+
+- Website: [benrlschmidt.de](https://benrlschmidt.de)
+- ORCID: [0000-0002-9669-3360](https://orcid.org/0000-0002-9669-3360)
+- Google Scholar: [Profile](https://scholar.google.de/citations?hl=de&user=cRAeTxYAAAAJ)
+- LinkedIn: [dr-benjamin-schmidt](https://www.linkedin.com/in/dr-benjamin-schmidt/)
+- PhD thesis: [Regional Dynamical Downscaling and Analysis of Water Balance Across Different Regions and Time Scales](https://depositonce.tu-berlin.de/items/0547b9c5-ea16-4003-af03-fa67e19018d6)
+
+## Contact
+
+- Email: [benjamin.schmidt@tu-berlin.de](mailto:benjamin.schmidt@tu-berlin.de)
+- GitHub: [@benatouba](https://github.com/benatouba)
+
+If you are hiring for research software, scientific data platforms, or climate data engineering, I would be glad to connect.
