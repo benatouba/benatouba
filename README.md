@@ -51,6 +51,7 @@ I work at the intersection of climate science, geospatial analytics, and softwar
 
 ## Featured projects
 
+
 | Project | Why it matters | Core stack |
 | --- | --- | --- |
 | [MaRESS](https://github.com/benatouba/maress) | Enables map and graph exploration of Earth system publications and study sites for faster research discovery | Vue 3, TypeScript, FastAPI, PostgreSQL/PostGIS, Celery, Redis, OpenLayers, Cytoscape.js |
@@ -60,14 +61,14 @@ I work at the intersection of climate science, geospatial analytics, and softwar
 | [darwin](https://github.com/benatouba/darwin) | Turns GAR and DARWIN model outputs into robust, analysis-ready climate data workflows | Python, xarray, salem, scientific data processing |
 | [benrlschmidt.de](https://benrlschmidt.de) ([repo](https://github.com/benatouba/benjaminschmidt)) | Presents a multilingual, structured research profile for publications, projects, and professional outreach | Vue 3, TypeScript, Vuetify, Vite, i18n |
 
-## Tooling and setups
+## Technical toolkit
+
 
 | Repo | Why it matters | Core stack |
 | --- | --- | --- |
 | [nvim](https://github.com/benatouba/nvim) | Standardizes a portable Neovim workflow across local, remote, and HPC development | Lua, LSP, testing/debug tooling, Nix-aware setup |
 | [flakes](https://github.com/benatouba/flakes) | Keeps environments reproducible and maintainable with modular Nix architecture | Nix, Home Manager, overlays, secret management |
 
-## Technical toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
