@@ -4,7 +4,11 @@
   </a>
 </p>
 
-<h1 align="center">Dr. Benjamin Schmidt</h1>
+<h1 align="center">
+  <a href="https://benrlschmidt.de/" target="_blank" style="text-decoration: none;">
+    Dr. Benjamin Schmidt
+  </a>
+</h1>
 
 <p align="center"><strong>Research Scientist | Climate Data Engineer | Research Software Engineer | Linux Enthusiast</strong></p>
 
@@ -25,17 +29,23 @@ From scientific pipelines to production-ready web platforms.
   <img src="https://img.shields.io/badge/Open%20to-Research%20Software%20Engineering%20Roles-0969da?style=flat-square" alt="Open to roles" />
 </p>
 
+<p align="center" justify-content="center">
+  <a name="Some thoughts" href="https://garden.benrlschmidt.de/" target="_blank" style="text-decoration: none;">
+    My <img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" /> Garden
+  </a>
+</p>
+
 ## At a glance
 
 I work at the intersection of climate science, geospatial analytics, and software engineering. I focus on building reliable tools that help teams process data, publish insights, and collaborate effectively.
 
-| Focus area | What I deliver |
-| --- | --- |
-| Scientific software | Full-stack applications for climate and Earth system research |
-| Data engineering | Reproducible pipelines for large geospatial and NetCDF datasets |
-| Platform engineering | Typed APIs, maintainable codebases, and documented workflows |
-| Linux system administration | Reproducible, maintainable systems from workstations to HPC |
-| Collaboration | Clear communication across research, engineering, and stakeholder teams |
+| Focus area                  | What I deliver                                                          |
+| --------------------------- | ----------------------------------------------------------------------- |
+| Scientific software         | Full-stack applications for climate and Earth system research           |
+| Data engineering            | Reproducible pipelines for large geospatial and NetCDF datasets         |
+| Platform engineering        | Typed APIs, maintainable codebases, and documented workflows            |
+| Linux system administration | Reproducible, maintainable systems from workstations to HPC             |
+| Collaboration               | Clear communication across research, engineering, and stakeholder teams |
 
 ## Current work
 
@@ -51,24 +61,21 @@ I work at the intersection of climate science, geospatial analytics, and softwar
 
 ## Featured projects
 
-
-| Project | Why it matters | Core stack |
-| --- | --- | --- |
-| [MaRESS](https://github.com/benatouba/maress) | Enables map and graph exploration of Earth system publications and study sites for faster research discovery | Vue 3, TypeScript, FastAPI, PostgreSQL/PostGIS, Celery, Redis, OpenLayers, Cytoscape.js |
-| [UC2 data exchange platform](https://uc2-program.org) ([dms_frontend](https://github.com/benatouba/dms_frontend), [DMS_backend](https://github.com/TUBklima/DMS_backend)) | Delivers shared data exchange and management for large climate model datasets across all UC2 project partners | Vue/Nuxt, Python backend services, APIs, NetCDF climate data workflows |
-| [UCO Berlin](https://uco.berlin/en) | Provides partner-facing urban climate access and visualization to improve data communication and collaboration | Geospatial web tooling, climate data pipelines, platform engineering |
-| [ATTRICI](https://github.com/benatouba/attrici) | Implements reproducible counterfactual climate workflows for impact attribution and method transparency | Python, probabilistic modeling, climate time-series analysis |
-| [darwin](https://github.com/benatouba/darwin) | Turns GAR and DARWIN model outputs into robust, analysis-ready climate data workflows | Python, xarray, salem, scientific data processing |
-| [benrlschmidt.de](https://benrlschmidt.de) ([repo](https://github.com/benatouba/benjaminschmidt)) | Presents a multilingual, structured research profile for publications, projects, and professional outreach | Vue 3, TypeScript, Vuetify, Vite, i18n |
+| Project                                                                                                                                                                   | Why it matters                                                                                                 | Core stack                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [MaRESS](https://github.com/benatouba/maress)                                                                                                                             | Enables map and graph exploration of Earth system publications and study sites for faster research discovery   | Vue 3, TypeScript, FastAPI, PostgreSQL/PostGIS, Celery, Redis, OpenLayers, Cytoscape.js |
+| [UC2 data exchange platform](https://uc2-program.org) ([dms_frontend](https://github.com/benatouba/dms_frontend), [DMS_backend](https://github.com/TUBklima/DMS_backend)) | Delivers shared data exchange and management for large climate model datasets across all UC2 project partners  | Vue/Nuxt, Python backend services, APIs, NetCDF climate data workflows                  |
+| [UCO Berlin](https://uco.berlin/en)                                                                                                                                       | Provides partner-facing urban climate access and visualization to improve data communication and collaboration | Geospatial web tooling, climate data pipelines, platform engineering                    |
+| [ATTRICI](https://github.com/benatouba/attrici)                                                                                                                           | Implements reproducible counterfactual climate workflows for impact attribution and method transparency        | Python, probabilistic modeling, climate time-series analysis                            |
+| [darwin](https://github.com/benatouba/darwin)                                                                                                                             | Turns GAR and DARWIN model outputs into robust, analysis-ready climate data workflows                          | Python, xarray, salem, scientific data processing                                       |
+| [benrlschmidt.de](https://benrlschmidt.de) ([repo](https://github.com/benatouba/benjaminschmidt))                                                                         | Presents a multilingual, structured research profile for publications, projects, and professional outreach     | Vue 3, TypeScript, Vuetify, Vite, i18n                                                  |
 
 ## Technical toolkit
 
-
-| Repo | Why it matters | Core stack |
-| --- | --- | --- |
-| [nvim](https://github.com/benatouba/nvim) | Standardizes a portable Neovim workflow across local, remote, and HPC development | Lua, LSP, testing/debug tooling, Nix-aware setup |
-| [flakes](https://github.com/benatouba/flakes) | Keeps environments reproducible and maintainable with modular Nix architecture | Nix, Home Manager, overlays, secret management |
-
+| Repo                                          | Why it matters                                                                    | Core stack                                       |
+| --------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [nvim](https://github.com/benatouba/nvim)     | Standardizes a portable Neovim workflow across local, remote, and HPC development | Lua, LSP, testing/debug tooling, Nix-aware setup |
+| [flakes](https://github.com/benatouba/flakes) | Keeps environments reproducible and maintainable with modular Nix architecture    | Nix, Home Manager, overlays, secret management   |
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
